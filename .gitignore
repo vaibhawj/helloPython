@@ -1,0 +1,10 @@
+
+.DS_STORE
+.cache/
+.coverage
+.gradle/
+.idea/
+binary_search/__pycache__/
+main/__pycache__/
+cov_html/
+test/__pycache__/
